@@ -1,4 +1,5 @@
 This repo contains prebuilt toolchains for andorid
+# Updated by : wedgess
 
 
 Current toolchains:
@@ -7,3 +8,6 @@ Current toolchains:
 
 [2] arm-eabi-linaro-4.6.2
     GCC Linaro 4.6.2 (2011.10) toolchain
+
+[3] arm-eabi-linaro-4.7.2
+    GCC Linaro 4.7.2 (2012.09) toolchain
